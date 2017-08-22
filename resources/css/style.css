@@ -14,7 +14,26 @@ a {
   color: Aquamarine;
   font-size: 16px;
 }
-h3 {
+.download {
   color: Gray;
   font-size: 21px;
   }
+
+h2 {
+  font-weight: 300;
+  font-size: 40px;
+  }
+
+.excursion {
+  font-size: 21px;
+  color: gray;
+}
+
+.phone {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.copyright {
+  text-align: right;
+}
